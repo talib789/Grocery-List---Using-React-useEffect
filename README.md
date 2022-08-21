@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+##  Grocery List - Using React useEffect
+
+### An application where you can manage your grocery item list using the add and delete feature.
+
+![Grocery List](https://snipboard.io/XcqGeb.jpg)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
