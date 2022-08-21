@@ -2,7 +2,7 @@
 
 ### An application where you can manage your grocery item list using the add and delete feature.
 
-![Grocery List](https://snipboard.io/XcqGeb.jpg)
+![Grocery List](https://snipboard.io/YmSEit.jpg)
 
 ## Getting Started with Create React App
 
